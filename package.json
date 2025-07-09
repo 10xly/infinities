@@ -1,9 +1,12 @@
 {
   "name": "infinities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gets the infinities.",
   "keywords": [
-    "infinity", "number", "constant", "utility"
+    "infinity",
+    "number",
+    "constant",
+    "utility"
   ],
   "homepage": "https://github.com/10xEngineersQualityProgramming/infinities#readme",
   "bugs": {
@@ -22,6 +25,6 @@
   },
   "dependencies": {
     "math-intrinsics": "^1.1.0",
-    "noargs-wrapper": "^1.0.0"
+    "noargs-wrapper": "^1.1.0"
   }
 }
