@@ -26,5 +26,9 @@
   "dependencies": {
     "math-intrinsics": "^1.1.0",
     "noargs-wrapper": "^1.1.0"
+  },
+  "devDependencies": {
+    "@10xly/eslint-config": "*",
+    "eslint": "^9.39.3"
   }
 }
