@@ -28,7 +28,7 @@
     "noargs-wrapper": "^1.1.0"
   },
   "devDependencies": {
-    "@10xly/eslint-config": "*",
+    "@10xly/eslint-config": "1.0.6",
     "eslint": "^9.39.3"
   }
 }
