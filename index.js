@@ -6,5 +6,5 @@ var noargs = require('noargs-wrapper')
 
 module.exports = {
   negativeInfinity: noargs(max),
-  positiveInfinity: noargs(min)
+  positiveInfinity: noargs(min),
 }

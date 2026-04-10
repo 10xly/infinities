@@ -8,16 +8,16 @@
     "constant",
     "utility"
   ],
-  "homepage": "https://github.com/10xEngineersQualityProgramming/infinities#readme",
+  "homepage": "https://github.com/10xly/infinities#readme",
   "bugs": {
-    "url": "https://github.com/10xEngineersQualityProgramming/infinities/issues"
+    "url": "https://github.com/10xly/infinities/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/10xEngineersQualityProgramming/infinities.git"
+    "url": "git+https://github.com/10xly/infinities.git"
   },
   "license": "MIT",
-  "author": "",
+  "author": "10x'ly Made Corporation",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
